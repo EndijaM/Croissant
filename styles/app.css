@@ -8,6 +8,12 @@ h1 {
   color: #6f6c70;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 }
+.contact-us-heading {
+  color: #6f6c70;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: 100;
+  font-size: 24px;
+}
 img {
   max-width: 300px;
   border: 10px solid white;
